@@ -42,7 +42,7 @@
 
 功能表参考于《数字电路技术基础》（第6版）表 6.3.5 ：
 
-<img src="https://cdn.joydee.cloud//20210721023053.png"/>
+![](https://cdn.joydee.cloud//20210721023053.png)
 
 + 当 s 与 ld 同时为高电平时，无论时钟信号 clk 如何，电路处于保持状态；
 
